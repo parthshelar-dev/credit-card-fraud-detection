@@ -186,9 +186,6 @@ The test set has 123 fraud vs 71,079 genuine transactions. A model predicting ev
 - Random Forest is recommended when minimizing false alarms is the business priority
 
 **Precision-Recall Curve:**
-
-![PR Curve](images/shap_beeswarm.png)
-
 - Random Forest maintains highest precision the longest
 - XGBoost is almost identical to Random Forest
 - All models collapse after recall 0.85 — optimal threshold is around 0.80 recall
