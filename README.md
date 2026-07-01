@@ -246,12 +246,21 @@ pip install -r requirements.txt
 **3. Download the dataset:**
 - Go to [Kaggle Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - Download `creditcard.csv`
-- Create a `data/` folder and place the file inside
+- Place it inside the `data/` folder
 
 **4. Run notebooks in order:**
-```
-01_eda.ipynb → 02_preprocessing.ipynb → 03_modeling.ipynb → 04_evaluation.ipynb → 05_shap.ipynb
-```
+
+| Step | Notebook | What it does |
+|------|----------|-------------|
+| 1 | `01_eda.ipynb` | Explore the dataset |
+| 2 | `02_preprocessing.ipynb` | Creates processed files in `data/processed/` |
+| 3 | `03_modeling.ipynb` | Trains and saves 3 models |
+| 4 | `04_evaluation.ipynb` | Evaluates all models |
+| 5 | `05_shap.ipynb` | SHAP explainability |
+
+> **Important:** Run notebooks in order. `02_preprocessing.ipynb` 
+> automatically generates all processed data files needed 
+> for subsequent notebooks.
 
 ---
 
