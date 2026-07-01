@@ -219,3 +219,6 @@ __marimo__/
 
 # Original dataset
 data/creditcard.csv
+
+# Processed data
+data/processed/
