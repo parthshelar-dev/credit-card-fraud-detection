@@ -332,11 +332,4 @@ Pillow
 ## Author
 
 **Parth Shelar**
-- 🐙 GitHub: [github.com/parthshelar-dev](https://github.com/parthshelar-dev)
 - 💼 LinkedIn: [linkedin.com/in/parth-shelar](https://linkedin.com/in/parth-shelar)
-
----
-
-## License
-
-This project is licensed under the MIT License.
