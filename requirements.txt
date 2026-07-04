@@ -8,3 +8,5 @@ xgboost
 shap
 joblib
 jupyter
+streamlit
+Pillow
