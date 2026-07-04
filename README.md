@@ -6,8 +6,7 @@ A complete end-to-end machine learning project for detecting fraudulent credit c
 
 ## 🌐 Live Demo
 
-> **[Launch FraudShield AI →](https://your-app-link.streamlit.app)**  
-> *(Deploy on Streamlit Cloud and replace this link)*
+> **[Launch FraudShield AI →](https://fraudshield-xgboost.streamlit.app/)**  
 
 ### App Screenshots
 
